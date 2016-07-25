@@ -1,8 +1,0 @@
-pydirstructure/__init__.py
-pydirstructure/module_a.py
-pydirstructure/module_b.py
-pydirstructure.egg-info/PKG-INFO
-pydirstructure.egg-info/SOURCES.txt
-pydirstructure.egg-info/dependency_links.txt
-pydirstructure.egg-info/entry_points.txt
-pydirstructure.egg-info/top_level.txt
