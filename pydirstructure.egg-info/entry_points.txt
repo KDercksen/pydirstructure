@@ -1,0 +1,4 @@
+[console_scripts]
+pydir_a = pydirstructure.module_a:main
+pydir_b = pydirstructure.module_b:main
+
